@@ -1,0 +1,94 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Star Wars",
+      "year": 1977,
+      "actors": [ "Mark Hamill", "Harrison Ford", "Carrie Fisher" ]
+    },
+    {
+      "id": 2,
+      "title": "Toy Story",
+      "year": 1995,
+      "actors": [ "Tom Hanks", "Tim Allen", "Don Rickles" ]
+    },
+    {
+      "id": 3,
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "actors": [ "Jack Black", "Dustin Hoffman", "Angelina Jolie" ]
+    },
+    {
+      "id": 4,
+      "title": "The Lion King",
+      "year": 1994,
+      "actors": [ "Jonathan Taylor Thomas", "Matthew Broderick", "James Earl Jones" ]
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "year": 1999,
+      "actors": [ "Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss" ]
+    },
+    {
+      "id": 6,
+      "title": "Iron Man",
+      "year": 2008,
+      "actors": [ "Robert Downey Jr.", "Terrence Howard", "Jeff Bridges" ]
+    },
+    {
+      "id": 7,
+      "title": "The Terminator",
+      "year": 1984,
+      "actors": [ "Arnold Schwarzenegger", "Michael Biehn", "Linda Hamilton" ]
+    },
+    {
+      "id": 8,
+      "title": "Jurrasic Park",
+      "year": 1993,
+      "actors": [ "Sam Neill", "Laura Dern", "Jeff Goldblum" ]
+    },
+    {
+      "id": 9,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "actors": [ "Harrison Ford", "Karen Allen", "Paul Freeman" ]
+    },
+    {
+      "id": 10,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "actors": [ "Tom Hanks", "Robin Wright", "Gary Sinise" ]
+    },
+    {
+      "id": 11,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "actors": [ "Chris Pratt", "Anya Taylor-Joy", "Charlie Day", "Jack Black" ]
+    },
+    {
+      "id": 12,
+      "title": "Speed",
+      "year": 1994,
+      "actors": [ "Keanu Reeves", "Dennis Hopper", "Sandra Bullock" ]
+    },
+    {
+      "id": 13,
+      "title": "Tron",
+      "year": 1982,
+      "actors": [ "Jeff Bridges", "Bruce Boxleitner", "David Warner" ]
+    },
+    {
+      "id": 14,
+      "title": "Predator",
+      "year": 1987,
+      "actors": [ "Arnold Schwarzenegger", "Carl Weathers", "Elpidia Carrillo" ]
+    },
+    {
+      "id": 15,
+      "title": "Bicentennial Man",
+      "year": 1999,
+      "actors": [ "Robin Williams", "Sam Neill", "Embeth Davidtz" ]
+    }
+  ]
+}
